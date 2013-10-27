@@ -1,0 +1,1 @@
+UPSTATIC_JS

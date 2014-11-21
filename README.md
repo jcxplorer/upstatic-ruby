@@ -1,5 +1,8 @@
 # Upstatic
 
+**Note:** A new and improved Upstatic is under development. It's a
+complete rewrite in Go, and will be open sourced soon. 
+
 Deploy your static sites to S3. Supports Cloudront object invalidation,
 file gzipping, and configuration of cache control headers.
 
